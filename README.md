@@ -5,5 +5,5 @@
 
 ### Arquitetura
 ---
-<img src="[URL_da_Imagem](https://github.com/LuisRafaelMaia/ProjetoPipelineDadosTelegram/blob/main/Requisitos/ARQUITETURA%20DO%20PROJETO.png)" alt="Arquitetura">
+<img src="[URL_da_Imagem](https://github.com/LuisRafaelMaia/ProjetoPipelineDadosTelegram/blob/main/Requisitos/ARQUITETURA%20DO%20PROJETO.png)" >
 ---
