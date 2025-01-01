@@ -5,6 +5,6 @@
 
 ### Arquitetura
 ---
-
+[Requisitos/ARQUITETURA DO PROJETO.png](https://github.com/LuisRafaelMaia/ProjetoPipelineDadosTelegram/blob/main/Requisitos/ARQUITETURA%20DO%20PROJETO.png)
 
 ---
