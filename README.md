@@ -5,5 +5,5 @@
 
 ### Arquitetura
 ---
-<img src="[URL_da_Imagem](https://github.com/LuisRafaelMaia/ProjetoPipelineDadosTelegram/blob/main/Requisitos/ARQUITETURA%20DO%20PROJETO.png)" >
+<img src="[https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/main/media/logo/newebac_logo_black_half.png](https://github.com/LuisRafaelMaia/ProjetoPipelineDadosTelegram/blob/main/Requisitos/ARQUITETURA%20DO%20PROJETO.png)" alt="diag-proj">
 ---
